@@ -1,0 +1,20 @@
+*{/* todos los elementos */
+font-family: cursive;
+color: yellow;
+}
+/* Regla de CSS */
+/* cascading style */
+h1{
+  color: pink;
+  color: #FFFFFF;
+  color: #666;
+  color: rgb(100,0,255);
+  color: rgba(100,0,255,0.7);
+}
+
+.cosas_azules{
+  color: ligthblue;
+}
+.grande{
+
+}
